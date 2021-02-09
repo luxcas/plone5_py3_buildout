@@ -1,0 +1,6 @@
+setuptools==42.0.2
+zc.buildout==2.13.3
+plonecli
+bobtemplates.plone==5.2.0
+wheel
+
